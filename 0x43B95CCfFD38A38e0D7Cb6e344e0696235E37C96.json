@@ -1,0 +1,12 @@
++{
+ +  "symbol": "ACBC",
+ +  "address": "0x43B95CCfFD38A38e0D7Cb6e344e0696235E37C96",
+ +  "overview":{
+ +        "en":"Asset Change BlockChain Token",
+ +        "zh":"资易所通证"
+ +  },
+ +  "email": "admin@acbc.io",
+ +  "website": "https://www.acbc.io",
+ +  "whitepaper": "http://www.acbc.io/pdf/WE-food-white-paper.pdf",
+ +  "published_on": "2018-06-15"
+ +}
